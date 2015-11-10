@@ -1,0 +1,8 @@
+This is a sample project showing how to use a swizzled category to
+fix the iOS 9 tint issue for UIAlertController.
+
+I've researched this fairly extensively, and I feel this is the
+best solution to the issue, but hey, I've been wrong in the past
+and expect to be wrong again in the future! :)
+
+Daniel J Flor

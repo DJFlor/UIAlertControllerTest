@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  UIAlertControllerTest
+//
+//  Created by Flor, Daniel J on 11/6/15.
+//  Copyright (c) 2015 ObiDan. All rights reserved.
+//
+
+#ifndef UIAlertControllerTest_PrefixHeader_pch
+#define UIAlertControllerTest_PrefixHeader_pch
+
+#import "UIAlertController+tintFix.h"
+
+#endif
